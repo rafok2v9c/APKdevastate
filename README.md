@@ -1,9 +1,9 @@
 # APKdevastate
 
-![Repo Size](https://img.shields.io/github/repo-size/rafigk2v9c/APKdevastate)
-![Stars](https://img.shields.io/github/stars/rafigk2v9c/APKdevastate?style=social)
-![Forks](https://img.shields.io/github/forks/rafigk2v9c/APKdevastate?style=social)
-![Issues](https://img.shields.io/github/issues/rafigk2v9c/APKdevastate)
+![Repo Size](https://img.shields.io/github/repo-size/rafok2v9c/APKdevastate)
+![Stars](https://img.shields.io/github/stars/rafok2v9c/APKdevastate?style=social)
+![Forks](https://img.shields.io/github/forks/rafok2v9c/APKdevastate?style=social)
+![Issues](https://img.shields.io/github/issues/rafok2v9c/APKdevastate)
 
 
 <p align="center">
@@ -20,13 +20,13 @@ The application may be detected as infected by Anti-Virus because it contains RA
 # Sample view of the software
 
 ## Payload Alert
-<img src="https://github.com/rafigk2v9c/APKdevastate/blob/master/ss/Screenshot_2.png" width="600" height="350" />
+<img src="https://github.com/rafok2v9c/APKdevastate/blob/master/ss/Screenshot_2.png" width="600" height="350" />
 
 ## Malicious Alert
-<img src="https://github.com/rafigk2v9c/APKdevastate/blob/master/ss/Screenshot_4.png" width="600" height="350" />
+<img src="https://github.com/rafok2v9c/APKdevastate/blob/master/ss/Screenshot_4.png" width="600" height="350" />
 
 ## Clean APK
-<img src="https://github.com/rafigk2v9c/APKdevastate/blob/master/ss/Screenshot_3.png" width="600" height="350" />
+<img src="https://github.com/rafok2v9c/APKdevastate/blob/master/ss/Screenshot_3.png" width="600" height="350" />
 
 
 ## Features
@@ -61,7 +61,7 @@ Example Usage-
 
 **Love APKdevastate?** Give us a ⭐ on GitHub!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=rafigk2v9c/APKdevastate&type=date&legend=top-left)](https://www.star-history.com/#rafigk2v9c/APKdevastate&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=rafok2v9c/APKdevastate&type=date&legend=top-left)](https://www.star-history.com/#rafok2v9c/APKdevastate&type=date&legend=top-left)
 
 
 ## Installation
@@ -71,10 +71,10 @@ Please download the .rar file with the name of the application and then extract 
 Download latest version:
 
 ```bash
-https://github.com/rafigk2v9c/APKdevastate/releases/tag/APKdevastatev1.5
+https://github.com/rafok2v9c/APKdevastate/releases/tag/APKdevastatev1.5
 ```
 
-[Read More.](https://rafigk2v9c.github.io/posts/apkdevastaten)
+[Read More.](https://rafok2v9c.github.io/posts/apkdevastaten)
 
 
 > **Disclaimer**: APKdevastate does not guarantee 100% accuracy in all detections or results. Use at your own discretion.
