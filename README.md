@@ -31,12 +31,14 @@ The application may be detected as infected by Anti-Virus because it contains RA
 
 ## Features
 
--  **Permission Analysis**: Lists and evaluates dangerous Android permissions  
--  **Certificate Verification**: Validates APK signing certificates against trusted organizations  
--  **RAT Detection**: Scans for known Remote Access Trojan signatures  
--  **Hash Generation**: Calculates MD5, SHA1, and SHA256 hashes for file verification  
--  **Encryption Detection**: Identifies potentially obfuscated or encrypted code  
--  **Risk Assessment**: Provides an overall security evaluation of the analyzed APK
+- **Permission Analysis**: Lists and evaluates dangerous Android permissions
+- **Certificate Verification**: Validates APK signing certificates against trusted organizations
+- **RAT Detection**: Scans for known Remote Access Trojan signatures
+- **Hash Generation**: Calculates MD5, SHA1, and SHA256 hashes for file verification
+- **Encryption Detection**: Identifies potentially obfuscated or encrypted code
+- **Risk Assessment**: Provides an overall security evaluation of the analyzed APK
+- **Native Library Scan**: Detects suspicious `.so` libraries
+- **Dynamic Loader Check**: Identifies reflection and dynamic class loading
   
 ---
 
